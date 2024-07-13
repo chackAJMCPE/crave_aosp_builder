@@ -1,10 +1,10 @@
 {
-  "username": "${CRAVE_USERNAME}",
+  "username": "adamjajko6982@gmail.com",
   "headers": {
     "Content-Type": "application/json",
-    "Authorization": "${CRAVE_TOKEN}",
+    "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjYwNSwidGVhbUlkIjo1MzMsImlzQXBpS2V5Ijp0cnVlLCJpYXQiOjE3MjA4NzU3ODF9.DPp6OzFV6WNcx2N1nSibSllk520S5TLSBj4uHumBkJ4",
     "User-Agent": "Crave"
   },
   "projects": [],
-  "server": "https://foss.crave.io/api"
+  "server": "https://devspace.crave.io/api"
 }
