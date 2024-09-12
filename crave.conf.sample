@@ -1,8 +1,8 @@
 {
-  "username": "adamjajko6982@gmail.com",
+  "username": "${CRAVE_USERNAME}",
   "headers": {
     "Content-Type": "application/json",
-    "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjQ3MSwidGVhbUlkIjoxNCwiaXNBcGlLZXkiOnRydWUsImlhdCI6MTcyMzQ1NzU4NH0.UlKHMFmVd-P-KZY3FcmXqYGSGUI7cfN_EFLonm3MkX8",
+    "Authorization": "${CRAVE_TOKEN}",
     "User-Agent": "Crave"
   },
   "projects": [],
